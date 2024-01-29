@@ -1,0 +1,12 @@
+lib/*
+bin/*
+.deps
+*.o
+*.so
+/data
+/logs
+/mysql_data
+/mysql_data_8
+/redis_data
+
+
